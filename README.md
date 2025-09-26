@@ -8,4 +8,6 @@ A simple Tic-Tac-Toe game built using advanced ReactJS concepts.
 - Interactive UI
 - Win and draw detection
 
+## Snapshot
+
 ![Game Snapshot](https://raw.githubusercontent.com/uzairahmedkayani/tic-tac-toe/main/src/assets/image.png)
